@@ -18,11 +18,6 @@ This is Website made with the help of React and NodeJs. Here you can find differ
 npm install
 ```
 
-## Author
-
-👤 **Anurag Patel**
-
-* Github: [@anurag-2024](https://github.com/anurag-2024)
 
 ## Show your support
 
