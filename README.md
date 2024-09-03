@@ -23,7 +23,4 @@ npm install
 
 Give a ⭐️ if this project helped you!
 
-### Installation
-1. Clone the repository (if you have Git installed):
-   ```bash
-   git clone https://github.com/anurag-2024/TravelHub.git
+
